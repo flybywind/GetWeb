@@ -1,0 +1,1 @@
+给定一个url，获取他包含的css，js，img以及background图片
